@@ -1,0 +1,2 @@
+# Explicit-Incompressible-Euler-Solver
+The report includes the methodology followed to solve the incompressible Euler equations using explicit,finite volume techniques. A computer program is written for this purpose. The code is tested on a circulararc-bump geometry.  Artificial compressibility approach is used to time-march the solution and a steadystate solution is attained.  It also include contour plots (colour lines) of flow variables, velocity vectorplots, convergence histories (log scale), surface pressure (line plot)
